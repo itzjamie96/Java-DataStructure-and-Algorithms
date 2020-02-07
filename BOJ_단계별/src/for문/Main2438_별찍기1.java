@@ -10,7 +10,8 @@ public class Main2438_별찍기1 {
 		
 		int N = sc.nextInt();
 		
-		for (int i=1; i<=N; i++) {			
+		for (int i=1; i<=N; i++) {		
+			//j는 계속해서 증가하는 변수 = i
 			for (int j=1; j<=i; j++ ) {
 				System.out.print("*");				
 			}			
