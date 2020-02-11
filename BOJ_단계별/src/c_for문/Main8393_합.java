@@ -1,4 +1,4 @@
-package for¹®;
+package c_for¹®;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package if¹®;
+package b_if¹®;
 
 import java.util.Scanner;
 

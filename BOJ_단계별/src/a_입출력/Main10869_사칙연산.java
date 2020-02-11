@@ -1,20 +1,20 @@
-package 입출력;
+package a_입출력;
 
 import java.util.Scanner;
 
-public class Main1000_A더하기B {
+public class Main10869_사칙연산 {
 
 	public static void main(String[] args) {
+		int A,B;
 		Scanner scan = new Scanner(System.in);
-		
-		int A;
-		int B;
 		
 		A = scan.nextInt();
 		B = scan.nextInt();
-		
 		System.out.println(A+B);
-
+		System.out.println(A-B);
+		System.out.println(A*B);
+		System.out.println(A/B);
+		System.out.println(A%B);
 	}
 
 }
