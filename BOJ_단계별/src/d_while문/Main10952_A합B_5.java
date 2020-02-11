@@ -13,7 +13,7 @@ public class Main10952_AÇÕB_5 {
 		
 			if (A==0 && B ==0) break;
 			System.out.println(A+B);
-		}
+		} 
 		sc.close();
 
 	}
