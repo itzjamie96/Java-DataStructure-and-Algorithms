@@ -1,11 +1,11 @@
-package b_if¹®;
+package b_ifë¬¸;
 
 import java.util.Scanner;
 
-public class Main2753_À±³â {
+public class Main2753_ìœ¤ë…„ {
 
 	public static void main(String[] args) {
-		//À±³â = ¿¬µµ°¡ 4ÀÇ¹è¼ö && 100ÀÇ¹è¼ö ¾Æ´Ô || 400ÀÇ¹è¼ö
+		//ìœ¤ë…„ = ì—°ë„ê°€ 4ì˜ë°°ìˆ˜ && 100ì˜ë°°ìˆ˜ ì•„ë‹˜ || 400ì˜ë°°ìˆ˜
 
 		Scanner scan = new Scanner(System.in);
 		

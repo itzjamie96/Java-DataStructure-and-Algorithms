@@ -1,8 +1,8 @@
-package b_if¹®;
+package b_ifë¬¸;
 
 import java.util.Scanner;
 
-public class Main1330_¼ıÀÚºñ±³ {
+public class Main1330_ìˆ«ìë¹„êµ {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

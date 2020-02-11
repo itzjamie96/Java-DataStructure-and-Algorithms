@@ -1,8 +1,8 @@
-package b_if¹®;
+package b_ifë¬¸;
 
 import java.util.Scanner;
 
-public class Main2884_¾Ë¶÷½Ã°è {
+public class Main2884_ì•ŒëžŒì‹œê³„ {
 
 	public static void main(String[] args) {
 		
