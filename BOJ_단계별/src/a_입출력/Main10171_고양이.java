@@ -1,6 +1,6 @@
-package a_ÀÔÃâ·Â;
+package a_ì…ì¶œë ¥;
 
-public class Main10171_°í¾çÀÌ {
+public class Main10171_ê³ ì–‘ì´ {
 
 	public static void main(String[] args) {
 		/*

@@ -1,8 +1,8 @@
-package a_ÀÔÃâ·Â;
+package a_ì…ì¶œë ¥;
 
 import java.util.Scanner;
 
-public class Main10430_³ª¸ÓÁö {
+public class Main10430_ë‚˜ë¨¸ì§€ {
 	
 	public static void main(String[] args) {
 		int A,B,C;

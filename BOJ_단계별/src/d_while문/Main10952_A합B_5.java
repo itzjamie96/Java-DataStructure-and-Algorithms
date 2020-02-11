@@ -1,8 +1,8 @@
-package d_while¹®;
+package d_whileë¬¸;
 
 import java.util.Scanner;
 
-public class Main10952_AÇÕB_5 {
+public class Main10952_Aí•©B_5 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

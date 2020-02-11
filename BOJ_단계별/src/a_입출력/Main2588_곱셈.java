@@ -1,19 +1,18 @@
-package a_ÀÔÃâ·Â;
+package a_ì…ì¶œë ¥;
 
 import java.util.Scanner;
 
-public class Main2588_°ö¼À {
+public class Main2588_ê³±ì…ˆ {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		
-		//ÀÔ·Â¹ŞÀ» ¼ıÀÚ
 		int A,B;
 	
 		A = scan.nextInt();		
 		B = scan.nextInt();
 		
-		//BÀÇ °¢ÀÚ¸®
+		//Bì˜ ìë¦¿ìˆ˜ êµ¬í•˜ê¸°
 		int one, tenth, hund;
 		
 		one = B/100 * A;	
