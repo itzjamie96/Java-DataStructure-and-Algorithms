@@ -1,8 +1,8 @@
-package c_for¹®;
+package c_forë¬¸;
 
 import java.util.Scanner;
 
-public class Main10950_A´õÇÏ±âB {
+public class Main10950_Aë”í•˜ê¸°B {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

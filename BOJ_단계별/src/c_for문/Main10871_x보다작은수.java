@@ -1,17 +1,16 @@
-package c_for¹®;
+package c_forë¬¸;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main10871_xº¸´ÙÀÛÀº¼ö {
+public class Main10871_xë³´ë‹¤ì‘ì€ìˆ˜ {
 
 	public static void main(String[] args) {
 		/*
-		 * 1. N,X ÀÔ·Â¹Şrl
-		 * 2. NÀÇ ¼ıÀÚµé arr ¹è¿­¿¡ ³Ö±â
-		 * 3. ¹è¿­ ºñ±³
-		 * 		index 0~N±îÁö
-		 * 		arr[i] < X ==> Ãâ·Â
+		 * 1. N,X ì…ë ¥ë°›rl
+		 * 2. Nì˜ ìˆ«ìë“¤ arr ë°°ì—´ì— ë„£ê¸°
+		 * 3. ë°°ì—´ ë¹„êµ
+		 * 		index 0~Nê¹Œì§€
+		 * 		arr[i] < X ==> ì¶œë ¥
 		 */
 		Scanner sc = new Scanner(System.in);
 		

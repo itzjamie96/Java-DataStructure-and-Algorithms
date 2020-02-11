@@ -1,25 +1,25 @@
-package c_for¹®;
+package c_forë¬¸;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 
-public class Main15552_ºü¸¥AÇÕB {
+public class Main15552_ë¹ ë¥¸Aí•©B {
 
 	public static void main(String[] args) throws Exception {
 		
-		/* Å×½ºÆ® ÄÉÀÌ½º°¡ Ä¿Áú¼ö·Ï Scanner·Î ÀÔ·Â¹Ş´Â µ¥ ÇÑ°è°¡ ÀÖÀ½
+		/* í…ŒìŠ¤íŠ¸ ì¼€ì´ìŠ¤ê°€ ì»¤ì§ˆìˆ˜ë¡ Scannerë¡œ ì…ë ¥ë°›ëŠ” ë° í•œê³„ê°€ ìˆìŒ
 		 * 
-		 * Buffer: µ¥ÀÌÅÍ¸¦ ÇÑ °÷¿¡¼­ ´Ù¸¥ ÇÑ°÷À¸·Î Àü¼ÛÇÏ´Â µ¿¾È ÀÏ½ÃÀûÀ¸·Î ±× µ¥ÀÌÅÍ¸¦ º¸°üÇÏ´Â ÀÓ½Ã ¸Ş¸ğ¸® ¿µ¿ª
-		 * 	-> ÀÔÃâ·Â ¼Óµµ Çâ»óÀ» À§ÇØ »ç¿ë 
-		 * 	-> Å°º¸µåÀÇ ÀÔ·ÂÀÌ ÀÖÀ» ¶§¸¶´Ù ÇÑ ¹®ÀÚ¾¿ ¹öÆÛ·Î Àü¼Û -> ¹öÆÛ°¡ °¡µæ Â÷¸é ÇÑ¹ø¿¡ Àü¼ÛÇÔ
-		 * 	-> ±×³É ÀÔ·Â¹Ş´Â ´ë·Î Àü¼ÛÇÏ´Â °Íº¸´Ù ÈÎ¾À È¿À²ÀûÀÌ°í ºü¸§
+		 * Buffer: ë°ì´í„°ë¥¼ í•œ ê³³ì—ì„œ ë‹¤ë¥¸ í•œê³³ìœ¼ë¡œ ì „ì†¡í•˜ëŠ” ë™ì•ˆ ì¼ì‹œì ìœ¼ë¡œ ê·¸ ë°ì´í„°ë¥¼ ë³´ê´€í•˜ëŠ” ì„ì‹œ ë©”ëª¨ë¦¬ ì˜ì—­
+		 * 	-> ì…ì¶œë ¥ ì†ë„ í–¥ìƒì„ ìœ„í•´ ì‚¬ìš© 
+		 * 	-> í‚¤ë³´ë“œì˜ ì…ë ¥ì´ ìˆì„ ë•Œë§ˆë‹¤ í•œ ë¬¸ìì”© ë²„í¼ë¡œ ì „ì†¡ -> ë²„í¼ê°€ ê°€ë“ ì°¨ë©´ í•œë²ˆì— ì „ì†¡í•¨
+		 * 	-> ê·¸ëƒ¥ ì…ë ¥ë°›ëŠ” ëŒ€ë¡œ ì „ì†¡í•˜ëŠ” ê²ƒë³´ë‹¤ í›¨ì”¬ íš¨ìœ¨ì ì´ê³  ë¹ ë¦„
 		 * 
-		 * BufferedReader : readLine()À» »ç¿ëÇØ µ¥ÀÌÅÍ¸¦ ¶óÀÎ ´ÜÀ§·Î ÀĞÀ½ (=String Å¸ÀÔ)
-		 * 	-> ¹«Á¶°Ç ¹®ÀÚ¿­ÀÌ±â ¶§¹®¿¡ ¼ıÀÚ·Î ¹Ù²Ù·Á¸é Integer.parseInt() ÇÊ¼ö
+		 * BufferedReader : readLine()ì„ ì‚¬ìš©í•´ ë°ì´í„°ë¥¼ ë¼ì¸ ë‹¨ìœ„ë¡œ ì½ìŒ (=String íƒ€ì…)
+		 * 	-> ë¬´ì¡°ê±´ ë¬¸ìì—´ì´ê¸° ë•Œë¬¸ì— ìˆ«ìë¡œ ë°”ê¾¸ë ¤ë©´ Integer.parseInt() í•„ìˆ˜
 		 * 
-		 * Buffer Flush : ¹öÆÛ¿¡ ³²Àº µ¥ÀÌÅÍµéÀ» ¸ğµÎ Ãâ·Â (= ¹öÆÛ ºñ¿ì±â)
+		 * Buffer Flush : ë²„í¼ì— ë‚¨ì€ ë°ì´í„°ë“¤ì„ ëª¨ë‘ ì¶œë ¥ (= ë²„í¼ ë¹„ìš°ê¸°)
 		 */
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));

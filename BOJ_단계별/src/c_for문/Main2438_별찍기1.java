@@ -1,8 +1,8 @@
-package c_for¹®;
+package c_forë¬¸;
 
 import java.util.Scanner;
 
-public class Main2438_º°Âï±â1 {
+public class Main2438_ë³„ì°ê¸°1 {
 
 	public static void main(String[] args) {
 		
@@ -11,7 +11,7 @@ public class Main2438_º°Âï±â1 {
 		int N = sc.nextInt();
 		
 		for (int i=1; i<=N; i++) {		
-			//j´Â °è¼ÓÇØ¼­ Áõ°¡ÇÏ´Â º¯¼ö = i
+			//jëŠ” ê³„ì†í•´ì„œ ì¦ê°€í•˜ëŠ” ë³€ìˆ˜ = i
 			for (int j=1; j<=i; j++ ) {
 				System.out.print("*");				
 			}			

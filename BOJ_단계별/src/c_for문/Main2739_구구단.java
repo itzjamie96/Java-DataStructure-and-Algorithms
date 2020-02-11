@@ -1,8 +1,8 @@
-package c_for¹®;
+package c_forë¬¸;
 
 import java.util.Scanner;
 
-public class Main2739_±¸±¸´Ü {
+public class Main2739_êµ¬êµ¬ë‹¨ {
 
 	public static void main(String[] args) {
 		

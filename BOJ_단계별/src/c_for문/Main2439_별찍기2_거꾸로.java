@@ -1,8 +1,8 @@
-package c_for¹®;
+package c_forë¬¸;
 
 import java.util.Scanner;
 
-public class Main2439_º°Âï±â2_°Å²Ù·Î {
+public class Main2439_ë³„ì°ê¸°2_ê±°ê¾¸ë¡œ {
 
 	public static void main(String[] args) {
 		
@@ -17,22 +17,22 @@ public class Main2439_º°Âï±â2_°Å²Ù·Î {
 		 * 4: -****
 		 * 5: *****
 		 * 
-		 * => µÎ°³ÀÇ for¹®ÀÌ ÇÊ¿äÇÔ!
+		 * => ë‘ê°œì˜ forë¬¸ì´ í•„ìš”í•¨!
 		 */
 
-		//ÇàÀ» ³ªÅ¸³»´Â for¹®
-		//°ø¹éÀÌ¶û *Àº println ¾Æ´Ï°í print·Î ³ª¿À°Ô! ÀØÁö¸»±â
+		//í–‰ì„ ë‚˜íƒ€ë‚´ëŠ” forë¬¸
+		//ê³µë°±ì´ëž‘ *ì€ println ì•„ë‹ˆê³  printë¡œ ë‚˜ì˜¤ê²Œ! ìžŠì§€ë§ê¸°
 		for (int i=1; i<=N; i++) {	
 			
-			//°ø¹é: N-i°³
+			//ê³µë°±: N-iê°œ
 			for (int j=1; j<=N-i; j++) {
 				System.out.print(" ");
 			}
-			//*: ±×³É i°³, °ø¹é µÚ¿¡ ¿Í¾ßÇÔ
+			//*: ê·¸ëƒ¥ iê°œ, ê³µë°± ë’¤ì— ì™€ì•¼í•¨
 			for (int k=1; k<=i; k++) {
 				System.out.print("*");
 			}
-			//ÁÙ¹Ù²Þ ÀØÁö¸»±â
+			//ì¤„ë°”ê¿ˆ ìžŠì§€ë§ê¸°
 			System.out.println();
 		}
 	} 

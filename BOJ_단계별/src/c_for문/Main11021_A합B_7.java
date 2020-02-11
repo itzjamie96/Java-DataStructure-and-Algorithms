@@ -1,11 +1,11 @@
-package c_for¹®;
+package c_forë¬¸;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 
-public class Main11021_AÇÕB_7 {
+public class Main11021_Aí•©B_7 {
 
 	public static void main(String[] args) throws Exception {
 		
@@ -24,8 +24,8 @@ public class Main11021_AÇÕB_7 {
 			
 			//int sum = A+B;
 			
-			// ****** ±×³É A+B¸¦ ¾²¸é "AB"°¡ ³ª¿È
-			// ****** (A+B)¸¦ ÇØÁà¾ß A¿Í BÀÇ ¼ıÀÚÇÕÀÌ ³ª¿À´õ¶ó....
+			// ****** ê·¸ëƒ¥ A+Bë¥¼ ì“°ë©´ "AB"ê°€ ë‚˜ì˜´
+			// ****** (A+B)ë¥¼ í•´ì¤˜ì•¼ Aì™€ Bì˜ ìˆ«ìí•©ì´ ë‚˜ì˜¤ë”ë¼....
 			bw.write("Case #"+ i + ": " + (A+B) + "\n");
 		}
 		bw.flush();

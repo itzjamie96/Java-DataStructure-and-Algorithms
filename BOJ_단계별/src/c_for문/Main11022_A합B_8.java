@@ -1,11 +1,11 @@
-package c_for¹®;
+package c_forë¬¸;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 
-public class Main11022_AÇÕB_8 {
+public class Main11022_Aí•©B_8 {
 
 	public static void main(String[] args) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

@@ -1,4 +1,4 @@
-package c_for¹®;
+package c_forë¬¸;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 
-public class Main2741_NÂï±â {
+public class Main2741_Nì°ê¸° {
 
 	public static void main(String[] args) throws IOException {
 		
