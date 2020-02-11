@@ -19,7 +19,7 @@ public class Main2439_별찍기2_거꾸로 {
 		 * 
 		 * => 두개의 for문이 필요함!
 		 */
-		
+
 		//행을 나타내는 for문
 		//공백이랑 *은 println 아니고 print로 나오게! 잊지말기
 		for (int i=1; i<=N; i++) {	
