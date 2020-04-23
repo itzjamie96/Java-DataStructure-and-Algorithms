@@ -9,7 +9,7 @@ public class Main9093_단어뒤집기_스택 {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		int T = sc.nextInt();
+		int T = sc.nextInt();  
 		sc.nextLine();	// 공백 제거
 		
 		for(int i=0; i<T; i++) {
