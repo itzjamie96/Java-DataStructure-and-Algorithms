@@ -4,6 +4,21 @@ import java.util.Scanner;
 
 public class ex06_자릿수제한 {
 
+	/*
+	 *  -- 계속 조건
+	 * 	do {		
+	 * 		~~~~~~		
+	 * 	} while(n<10 || n>99);			
+	 * 
+	 * -- !종료 조건
+	 * 	do {		
+	 * 		~~~~~~		
+	 * 	} while(!n>=10 && n<=99);			
+	 * 
+	 * 
+	 * == 결국 둘 다 같음
+	 */
+	
 	public static void main(String[] args) {
 		// 2의 자리 양수로만 제한하는 프로그램
 		
