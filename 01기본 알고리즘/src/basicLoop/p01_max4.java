@@ -1,4 +1,4 @@
-package ch01;
+package basicLoop;
 
 public class p01_max4 {
 

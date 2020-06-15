@@ -1,4 +1,4 @@
-package ch01;
+package basicLoop;
 
 public class p16_피라미드 {
 

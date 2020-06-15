@@ -1,11 +1,11 @@
-package ch01;
+package basicLoop;
 
 import java.util.Scanner;
 
-public class ex04_SumWhile {
+public class p07_SumPrint {
 
 	public static void main(String[] args) {
-		//1부터 n까지의 합
+		// 1+2+3+...+n = sum 출력
 		
 		Scanner sc = new Scanner(System.in);
 		
@@ -13,15 +13,13 @@ public class ex04_SumWhile {
 		int n = sc.nextInt();
 		
 		int sum = 0;
-		int i = 1;	//1부터 시작값
 		
-		while(i <= n) {
-//			System.out.println("i: "+i);
+		for(int i=1; i<=n; i++) {
+			System.out.print(i+" + ");
 			sum += i;
-			i++;
 		}
+		System.out.print("= "+sum);
 		
-		System.out.println("sum: "+sum);
 
 	}
 

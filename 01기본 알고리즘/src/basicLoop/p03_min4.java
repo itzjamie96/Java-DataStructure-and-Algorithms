@@ -1,4 +1,4 @@
-package ch01;
+package basicLoop;
 
 public class p03_min4 {
 

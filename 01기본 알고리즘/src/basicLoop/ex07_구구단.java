@@ -1,4 +1,4 @@
-package ch01;
+package basicLoop;
 
 public class ex07_구구단 {
 

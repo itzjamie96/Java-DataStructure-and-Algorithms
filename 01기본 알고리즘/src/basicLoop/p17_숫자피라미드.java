@@ -1,4 +1,4 @@
-package ch01;
+package basicLoop;
 
 public class p17_숫자피라미드 {
 

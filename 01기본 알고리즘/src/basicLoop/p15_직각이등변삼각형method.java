@@ -1,4 +1,4 @@
-package ch01;
+package basicLoop;
 
 public class p15_직각이등변삼각형method {
 

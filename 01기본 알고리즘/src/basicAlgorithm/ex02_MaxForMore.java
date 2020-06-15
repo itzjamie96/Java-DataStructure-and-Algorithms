@@ -1,4 +1,4 @@
-package ch01;
+package basicAlgorithm;
 
 public class ex02_MaxForMore {
 
